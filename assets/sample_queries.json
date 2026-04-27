@@ -1,0 +1,23 @@
+[
+  {"category": "🌍 Air Quality", "query": "Show top 10 most polluted cities", "dataset": "air_quality"},
+  {"category": "🌍 Air Quality", "query": "CO2 emissions by country", "dataset": "air_quality"},
+  {"category": "🌍 Air Quality", "query": "Air quality trend monthly", "dataset": "air_quality"},
+  {"category": "🌍 Air Quality", "query": "Cleanest cities in the world", "dataset": "air_quality"},
+  {"category": "🦠 COVID-19", "query": "COVID total cases by country", "dataset": "covid"},
+  {"category": "🦠 COVID-19", "query": "COVID deaths by country", "dataset": "covid"},
+  {"category": "🦠 COVID-19", "query": "Vaccination progress over time", "dataset": "covid"},
+  {"category": "🦠 COVID-19", "query": "Weekly COVID trend India USA Brazil", "dataset": "covid"},
+  {"category": "🇮🇳 India Census", "query": "Most populated Indian states", "dataset": "india_census"},
+  {"category": "🇮🇳 India Census", "query": "Literacy rate by state", "dataset": "india_census"},
+  {"category": "🇮🇳 India Census", "query": "GDP by Indian state", "dataset": "india_census"},
+  {"category": "🇮🇳 India Census", "query": "Internet penetration by state", "dataset": "india_census"},
+  {"category": "📈 Stocks", "query": "Top performing stocks", "dataset": "stocks"},
+  {"category": "📈 Stocks", "query": "Stock price trend NVDA MSFT AAPL", "dataset": "stocks"},
+  {"category": "📈 Stocks", "query": "Stocks by sector", "dataset": "stocks"},
+  {"category": "📈 Stocks", "query": "Indian IT stocks TCS Infosys Wipro", "dataset": "stocks"},
+  {"category": "🛒 E-Commerce", "query": "Revenue by product category", "dataset": "ecommerce"},
+  {"category": "🛒 E-Commerce", "query": "Revenue by region", "dataset": "ecommerce"},
+  {"category": "🛒 E-Commerce", "query": "Monthly sales trend", "dataset": "ecommerce"},
+  {"category": "🛒 E-Commerce", "query": "Quarterly revenue comparison", "dataset": "ecommerce"},
+  {"category": "🛒 E-Commerce", "query": "Customer ratings by category", "dataset": "ecommerce"}
+]
